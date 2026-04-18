@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class O_misterio_de_Collatz {
+public class MisterioDeCollatz {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Informe um número: ");
